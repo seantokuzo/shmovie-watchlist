@@ -13,6 +13,7 @@ module.exports = {
     client: {
       logging: "none",
     },
+    open: true,
     historyApiFallback: true,
   },
   module: {
