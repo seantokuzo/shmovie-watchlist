@@ -36,5 +36,12 @@ RIGHT HERE
   <br>
   <img align="center" width="100px" alt="seantokuo logo" src="https://seantokuzo-bucket.s3.us-west-1.amazonaws.com/fav-icons/seantokuzo-logo-purp.png">
   <br>
+  <br>
   <p>by seantokuzo</p>
+  <br>
+  <br>
+  <br>
+  <br>
+  <p align="center">For the complete commit history:</p>
+    <a href="https://github.com/seantokuzo/MovieWatchlist">Original Repo</a>
 </div>
